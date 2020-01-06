@@ -1,2 +1,2 @@
 # OverTheWire
-Quick notes taken while playing
+Quick notes (KeepNote's) taken while playing
